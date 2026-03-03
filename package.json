@@ -1,7 +1,18 @@
 {
-  "name": "project-1",
+  "name": "liveboard-tv",
   "version": "0.1.0",
   "private": true,
+  "description": "Overlay TV/OBS modulaire data-driven pour diffusion en direct, par Arthas Solutions.",
+  "author": "Arthas Solutions",
+  "keywords": [
+    "nextjs",
+    "overlay",
+    "obs",
+    "liveboard",
+    "transport",
+    "weather",
+    "arthas-solutions"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
