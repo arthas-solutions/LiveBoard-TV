@@ -2,13 +2,14 @@
 
 Overlay TV/OBS modulaire en `1920x1080`, developpe par **Arthas Solutions**.
 
-LiveBoard-TV agrege des donnees reelles (meteo, trains, perturbations, citation) pour produire un habillage d'ecran clair, lisible et pilotable en direct.
+LiveBoard-TV agrege des donnees reelles (meteo, trains, perturbations, citation) pour produire un habillage d'ecran clair, lisible et pilotable en direct, avec une approche simple et concrete.
 
 ## Pourquoi ce projet
 
 - Offrir une base overlay professionnelle reutilisable pour un plateau TV, un stream OBS ou un affichage gare/evenement.
 - Centraliser les donnees externes cote serveur pour proteger les secrets API.
 - Permettre un controle temps reel via un panneau dedie (`/control`) sans toucher au code.
+- Faciliter le deploiement et la maintenance pour des besoins terrain (petites structures, associations, evenements locaux, TPE/PME).
 
 ## Fonctionnalites
 
@@ -129,6 +130,6 @@ Contact: `contact@arthas.fr` - Site: `https://arthas.fr`
 ## Arthas Solutions
 
 Ce projet est un exemple de realisation **Arthas Solutions** pour des experiences data-driven en diffusion video.
-Arthas Solutions accompagne les particuliers, TPE et PME avec une approche simple, concrete et orientee resultats.
+Arthas Solutions accompagne les particuliers, TPE et PME avec une approche simple, concrete et orientee resultats: formation, conseil, assistance, installation et depannage.
 
 Contact entreprise: `contact@arthas.fr` - `https://arthas.fr`
