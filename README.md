@@ -107,7 +107,8 @@ Le front n'appelle jamais directement SNCF ou IDFM: les appels externes transite
 - Ne jamais versionner `.env.local` ou une cle reelle.
 - Le repo ignore les `.env*` et versionne uniquement `.env.example`.
 - En cas de doute sur une fuite, regenerer immediatement les credentials SNCF et IDFM.
-- Eviter de publier des exports debug contenant des donnees sensibles.
+- Les exports `debug` ne doivent pas etre versionnes.
+- Eviter de publier des exports techniques contenant des donnees sensibles.
 
 ## Commandes utiles
 
