@@ -2,6 +2,10 @@
 
 ![Capture LiveBoard-TV](./Liveboard-TV.png)
 
+## Video de demonstration
+
+- YouTube: https://www.youtube.com/watch?v=pm0kyn-KdUc
+
 Overlay TV/OBS modulaire en `1920x1080`, developpe par **Arthas Solutions**.
 
 LiveBoard-TV agrege des donnees reelles (meteo, trains, perturbations, citation) pour produire un habillage d'ecran clair, lisible et pilotable en direct, avec une approche simple et concrete.
